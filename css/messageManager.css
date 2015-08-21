@@ -1,0 +1,52 @@
+.icon{
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:25px;
+}
+.messageTitle{
+	color:#2C3539;
+	font-weight:bold;
+}
+.messageBody{
+	color:#2C3539;
+	text-align:center;
+}
+.messageTimestamp{
+	color:#2C3539;
+	float:right;
+}
+.mainContent{
+	padding:7px;
+	height:75px;
+	width:300px;
+	color:#2C3539;
+}
+.delIcon{
+	margin-top:25px;
+	color:#2C3539;
+}
+
+.messageTemplateBox{
+	
+}
+														
+.mobileMessageIcon{
+	font-size:2rem;
+}
+
+#CITMessageCount{
+	position:relative;
+	z-index:21;
+	background-color:blue;
+	color:white;
+	left:15px;
+	top:-20px;
+	width:26px;
+	height:26px;
+	border-radius:50%;
+	text-align:center;
+	line-height:26px}
+	
+#CITMessageContainer{
+	position:absolute;
+	z-index:20;}
